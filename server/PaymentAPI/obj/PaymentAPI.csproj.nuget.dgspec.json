@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gayratyuldoshev/local/github/WADCW_24/server/PaymentAPI/PaymentAPI.csproj": {}
+    "/Users/gayratyuldoshev/local/github/WADCW_24_00017186/server/PaymentAPI/PaymentAPI.csproj": {}
   },
   "projects": {
-    "/Users/gayratyuldoshev/local/github/WADCW_24/server/PaymentAPI/PaymentAPI.csproj": {
+    "/Users/gayratyuldoshev/local/github/WADCW_24_00017186/server/PaymentAPI/PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gayratyuldoshev/local/github/WADCW_24/server/PaymentAPI/PaymentAPI.csproj",
+        "projectUniqueName": "/Users/gayratyuldoshev/local/github/WADCW_24_00017186/server/PaymentAPI/PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "/Users/gayratyuldoshev/local/github/WADCW_24/server/PaymentAPI/PaymentAPI.csproj",
+        "projectPath": "/Users/gayratyuldoshev/local/github/WADCW_24_00017186/server/PaymentAPI/PaymentAPI.csproj",
         "packagesPath": "/Users/gayratyuldoshev/.nuget/packages/",
-        "outputPath": "/Users/gayratyuldoshev/local/github/WADCW_24/server/PaymentAPI/obj/",
+        "outputPath": "/Users/gayratyuldoshev/local/github/WADCW_24_00017186/server/PaymentAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gayratyuldoshev/.nuget/NuGet/NuGet.Config"

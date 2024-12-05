@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+oVWsclEJ3Y=",
+  "dgSpecHash": "qhPzZOHFiQ0=",
   "success": true,
-  "projectFilePath": "/Users/gayratyuldoshev/local/github/WADCW_24/server/PaymentAPI/PaymentAPI.csproj",
+  "projectFilePath": "/Users/gayratyuldoshev/local/github/WADCW_24_00017186/server/PaymentAPI/PaymentAPI.csproj",
   "expectedPackageFiles": [
     "/Users/gayratyuldoshev/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/gayratyuldoshev/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

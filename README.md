@@ -1,5 +1,7 @@
 # This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00017186
 
+## Calculation Process: 00017186 % 20 = 6 --> "Reception System App"
+
 Table of Contents
 -----------------
 
