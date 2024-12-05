@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿// 00017186
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
